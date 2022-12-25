@@ -40,10 +40,6 @@ public class TestMaximalMatching {
             System.out.print((test.execute(testGraph3) == 4) + " ");
             System.out.println(test.execute(testGraph3));
         }
-        if (test.execute(testGraphV) == 4){
-            System.out.print((test.execute(testGraphV) == 4) + " ");
-            System.out.println(test.execute(testGraphV));
-        }
 
         if (test.execute(testGraphV) == 2){
             System.out.print((test.execute(testGraphV) == 2) + " ");
